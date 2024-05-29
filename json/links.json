@@ -1,0 +1,16 @@
+[
+  {
+		"title": "BlockStar",
+		"url": "https://mainnet-rpc.kbcfoundation.com",
+		"group": "Mainnets",
+		"icon": "http://codewithjd.com/bst/icon.png",
+		"invertIconInDarkMode": true
+	},
+	{
+		"title": "BlockStar Testnet",
+		"url": "http://testnet-scan.kbcfoundation.com",
+		"group": "Testnets",
+		"icon": "http://codewithjd.com/bst/icon.png",
+		"invertIconInDarkMode": true
+	}
+]
